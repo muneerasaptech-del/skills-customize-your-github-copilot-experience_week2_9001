@@ -58,6 +58,44 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "web-basics",
+      "title": "Web Basics - HTML & CSS",
+      "description": "Create a personal portfolio webpage using HTML and CSS",
+      "path": "assignments/web-basics",
+      "dueDate": "2026-03-31",
+      "attachments": [
+        {
+          "name": "Starter Code - HTML",
+          "file": "starter-code.html",
+          "type": "html"
+        },
+        {
+          "name": "Starter Code - CSS",
+          "file": "starter-code.css",
+          "type": "css"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build modern REST APIs using the FastAPI framework with endpoints, validation, and error handling",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-03-31",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
